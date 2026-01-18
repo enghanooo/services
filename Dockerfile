@@ -16,4 +16,4 @@ RUN composer install --no-dev --optimize-autoloader
 
 EXPOSE 10000
 
-CMD php -S 0.0.0.0:10000 -t services
+CMD php -S 0.0.0.0:10000 -t service
