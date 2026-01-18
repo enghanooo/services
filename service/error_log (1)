@@ -1,0 +1,266 @@
+[08-May-2025 10:53:28 UTC] PHP Warning:  Undefined variable $conn in /home/casegcon/public_html/service-flutter/CompletedApplications.php on line 13
+[08-May-2025 10:53:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/casegcon/public_html/service-flutter/CompletedApplications.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/CompletedApplications.php on line 13
+[08-May-2025 11:06:31 UTC] PHP Warning:  Undefined variable $conn in /home/casegcon/public_html/service-flutter/CompletedApplications.php on line 13
+[08-May-2025 11:06:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/casegcon/public_html/service-flutter/CompletedApplications.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/CompletedApplications.php on line 13
+[08-May-2025 11:51:18 UTC] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 11:51:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/casegcon/public_html/service-flutter/save-payment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 11:51:19 UTC] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 11:51:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/casegcon/public_html/service-flutter/save-payment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 12:23:31 UTC] PHP Warning:  move_uploaded_file(img/681ca243ea8aa_IMG-20250508-WA0016.jpg): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/register.php on line 47
+[08-May-2025 12:23:31 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpBXUb52&quot; to &quot;img/681ca243ea8aa_IMG-20250508-WA0016.jpg&quot; in /home/casegcon/public_html/service-flutter/register.php on line 47
+[08-May-2025 12:24:00 UTC] PHP Warning:  Undefined variable $CName in /home/casegcon/public_html/service-flutter/register.php on line 81
+[08-May-2025 12:24:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/casegcon/public_html/service-flutter/register.php:89
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/register.php(89): PDOStatement->execute()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/register.php on line 89
+[08-May-2025 12:25:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'state' in 'INSERT INTO' in /home/casegcon/public_html/service-flutter/register.php:89
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/register.php(89): PDOStatement->execute()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/register.php on line 89
+[08-May-2025 12:26:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'state' in 'INSERT INTO' in /home/casegcon/public_html/service-flutter/register.php:89
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/register.php(89): PDOStatement->execute()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/register.php on line 89
+[08-May-2025 12:27:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'state' in 'INSERT INTO' in /home/casegcon/public_html/service-flutter/register.php:89
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/register.php(89): PDOStatement->execute()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/register.php on line 89
+[08-May-2025 12:28:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'state' in 'INSERT INTO' in /home/casegcon/public_html/service-flutter/register.php:88
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/register.php(88): PDOStatement->execute()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/register.php on line 88
+[08-May-2025 12:29:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'state' in 'INSERT INTO' in /home/casegcon/public_html/service-flutter/register.php:91
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/register.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/register.php on line 91
+[08-May-2025 12:30:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'state' in 'INSERT INTO' in /home/casegcon/public_html/service-flutter/register.php:91
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/register.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/register.php on line 91
+[08-May-2025 12:32:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'state' in 'INSERT INTO' in /home/casegcon/public_html/service-flutter/register.php:91
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/register.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/register.php on line 91
+[08-May-2025 12:33:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'state' in 'INSERT INTO' in /home/casegcon/public_html/service-flutter/register.php:91
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/register.php(91): PDOStatement->execute()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/register.php on line 91
+[08-May-2025 13:23:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'WHERE' in /home/casegcon/public_html/service-flutter/login.php:35
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/login.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/login.php on line 35
+[08-May-2025 13:24:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'WHERE' in /home/casegcon/public_html/service-flutter/login.php:35
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/login.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/login.php on line 35
+[08-May-2025 13:24:36 UTC] PHP Warning:  Undefined array key "state" in /home/casegcon/public_html/service-flutter/login.php on line 41
+[08-May-2025 13:24:53 UTC] PHP Warning:  Undefined array key "state" in /home/casegcon/public_html/service-flutter/login.php on line 41
+[08-May-2025 13:25:00 UTC] PHP Warning:  Undefined array key "state" in /home/casegcon/public_html/service-flutter/login.php on line 41
+[08-May-2025 13:25:38 UTC] PHP Warning:  Undefined array key "state" in /home/casegcon/public_html/service-flutter/login.php on line 41
+[08-May-2025 13:25:58 UTC] PHP Warning:  Undefined array key "ID" in /home/casegcon/public_html/service-flutter/login.php on line 55
+[08-May-2025 13:26:25 UTC] PHP Warning:  Undefined array key "ID" in /home/casegcon/public_html/service-flutter/login.php on line 55
+[08-May-2025 14:01:09 UTC] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:01:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/casegcon/public_html/service-flutter/save-payment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:07:42 UTC] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:07:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/casegcon/public_html/service-flutter/save-payment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:08:19 UTC] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:08:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/casegcon/public_html/service-flutter/save-payment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:09:04 UTC] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:09:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/casegcon/public_html/service-flutter/save-payment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:09:29 UTC] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:09:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/casegcon/public_html/service-flutter/save-payment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:14:24 UTC] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:14:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/casegcon/public_html/service-flutter/save-payment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:15:02 UTC] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:15:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/casegcon/public_html/service-flutter/save-payment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:16:42 UTC] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:16:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/casegcon/public_html/service-flutter/save-payment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:17:30 UTC] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:17:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/casegcon/public_html/service-flutter/save-payment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:18:23 UTC] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:18:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/casegcon/public_html/service-flutter/save-payment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:19:43 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\Stripe" not found in /home/casegcon/public_html/service-flutter/save-payment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 8
+[08-May-2025 14:22:15 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\Stripe" not found in /home/casegcon/public_html/service-flutter/save-payment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 8
+[08-May-2025 14:23:13 UTC] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:23:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/casegcon/public_html/service-flutter/save-payment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:26:17 UTC] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:26:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/casegcon/public_html/service-flutter/save-payment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:28:42 UTC] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:28:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/casegcon/public_html/service-flutter/save-payment.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 2
+[08-May-2025 14:29:23 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\Stripe" not found in /home/casegcon/public_html/service-flutter/save-payment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 8
+[08-May-2025 14:29:46 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\Stripe" not found in /home/casegcon/public_html/service-flutter/save-payment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 8
+[08-May-2025 14:32:04 UTC] PHP Warning:  require_once(/home/casegcon/public_html/service-flutter/vendor/composer/autoload_real.php): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/vendor/autoload.php on line 20
+[08-May-2025 14:32:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/casegcon/public_html/service-flutter/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/casegcon/public_html/service-flutter/vendor/autoload.php:20
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/save-payment.php(2): require_once()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/vendor/autoload.php on line 20
+[08-May-2025 14:33:10 UTC] PHP Warning:  require_once(/home/casegcon/public_html/service-flutter/vendor/composer/autoload_real.php): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/vendor/autoload.php on line 20
+[08-May-2025 14:33:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/casegcon/public_html/service-flutter/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/casegcon/public_html/service-flutter/vendor/autoload.php:20
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/save-payment.php(2): require_once()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/vendor/autoload.php on line 20
+[08-May-2025 14:33:32 UTC] PHP Warning:  require_once(/home/casegcon/public_html/service-flutter/vendor/composer/autoload_real.php): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/vendor/autoload.php on line 20
+[08-May-2025 14:33:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/casegcon/public_html/service-flutter/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/casegcon/public_html/service-flutter/vendor/autoload.php:20
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/save-payment.php(2): require_once()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/vendor/autoload.php on line 20
+[08-May-2025 14:36:02 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\Stripe" not found in /home/casegcon/public_html/service-flutter/save-payment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/save-payment.php on line 8
+[08-May-2025 14:36:32 UTC] PHP Warning:  require_once(/home/casegcon/public_html/service-flutter/vendor/composer/autoload_real.php): Failed to open stream: No such file or directory in /home/casegcon/public_html/service-flutter/vendor/autoload.php on line 20
+[08-May-2025 14:36:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/casegcon/public_html/service-flutter/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/casegcon/public_html/service-flutter/vendor/autoload.php:20
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/save-payment.php(2): require_once()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/vendor/autoload.php on line 20
+[08-May-2025 14:46:56 UTC] PHP Warning:  Undefined variable $conn in /home/casegcon/public_html/service-flutter/CompletedApplications.php on line 13
+[08-May-2025 14:46:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/casegcon/public_html/service-flutter/CompletedApplications.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/CompletedApplications.php on line 13
+[08-May-2025 15:09:20 UTC] PHP Warning:  Undefined variable $conn in /home/casegcon/public_html/service-flutter/CompletedApplications.php on line 13
+[08-May-2025 15:09:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/casegcon/public_html/service-flutter/CompletedApplications.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/CompletedApplications.php on line 13
+[08-May-2025 15:12:50 UTC] PHP Warning:  Undefined variable $conn in /home/casegcon/public_html/service-flutter/CompletedApplications.php on line 13
+[08-May-2025 15:12:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/casegcon/public_html/service-flutter/CompletedApplications.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/CompletedApplications.php on line 13
+[08-May-2025 15:13:23 UTC] PHP Warning:  Undefined variable $conn in /home/casegcon/public_html/service-flutter/CompletedApplications.php on line 13
+[08-May-2025 15:13:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in /home/casegcon/public_html/service-flutter/CompletedApplications.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/casegcon/public_html/service-flutter/CompletedApplications.php on line 13
+[09-May-2025 09:43:27 Asia/Riyadh] PHP Warning:  Undefined array key "u_id" in /home/casegcon/public_html/service-flutter/insert_order.php on line 29
+[09-May-2025 08:26:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM users sp
+        WHERE sp.type  = ?
+        ORDER BY id DESC' at line 14 in /home/casegcon/public_html/service-flutter/sub_services.php:21
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/sub_services.php(21): mysqli->prepare()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/sub_services.php on line 21
+[09-May-2025 08:26:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM users sp
+        WHERE sp.type  = ?
+        ORDER BY id DESC' at line 14 in /home/casegcon/public_html/service-flutter/sub_services.php:21
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/sub_services.php(21): mysqli->prepare()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/sub_services.php on line 21
+[09-May-2025 08:27:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM users sp
+        WHERE sp.type  = ?
+        ORDER BY id DESC' at line 14 in /home/casegcon/public_html/service-flutter/sub_services.php:21
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/sub_services.php(21): mysqli->prepare()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/sub_services.php on line 21
+[09-May-2025 12:13:28 Asia/Riyadh] PHP Warning:  Undefined array key "u_id" in /home/casegcon/public_html/service-flutter/insert_complaint.php on line 23
+[09-May-2025 12:13:28 Asia/Riyadh] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'U_ID' cannot be null in /home/casegcon/public_html/service-flutter/insert_complaint.php:37
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/insert_complaint.php(37): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/insert_complaint.php on line 37
+[09-May-2025 12:29:11 Asia/Riyadh] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/casegcon/public_html/service-flutter/insert_order.php:72
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/insert_order.php(72): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/insert_order.php on line 72
+[09-May-2025 12:29:36 Asia/Riyadh] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/casegcon/public_html/service-flutter/insert_order.php:91
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/insert_order.php(91): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/insert_order.php on line 91
+[09-May-2025 12:30:12 Asia/Riyadh] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/casegcon/public_html/service-flutter/insert_order.php:91
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/insert_order.php(91): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/insert_order.php on line 91
+[09-May-2025 12:30:32 Asia/Riyadh] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/casegcon/public_html/service-flutter/insert_order.php:91
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/insert_order.php(91): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/insert_order.php on line 91
+[09-May-2025 12:30:40 Asia/Riyadh] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/casegcon/public_html/service-flutter/insert_order.php:91
+Stack trace:
+#0 /home/casegcon/public_html/service-flutter/insert_order.php(91): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/casegcon/public_html/service-flutter/insert_order.php on line 91
